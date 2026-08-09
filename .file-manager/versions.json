@@ -1,0 +1,13 @@
+{
+  "versions": {
+    "822197e9-0144-4325-9b76-2b11f7da03af": [
+      {
+        "id": "83b5037a-def0-4ed1-9d05-bca8dead65ad",
+        "fileId": "822197e9-0144-4325-9b76-2b11f7da03af",
+        "content": "# Hello from GitHub-backed file manager\n\nThis file is stored entirely on GitHub.",
+        "createdBy": "a42c8180-56e0-42a5-8513-f04d84659c85",
+        "createdAt": "2026-08-09T08:52:14.728Z"
+      }
+    ]
+  }
+}
