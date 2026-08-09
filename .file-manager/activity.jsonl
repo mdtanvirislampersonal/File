@@ -1,2 +1,2 @@
 {"id":"29ef26a1-c178-463f-b41a-25573461183d","userId":"a42c8180-56e0-42a5-8513-f04d84659c85","username":null,"action":"CREATE_FILE","target":"admin","details":"First admin account created via /setup","ipAddress":"::1","createdAt":"2026-08-09T08:47:20.662Z"}
-{"id":"446e823d-333b-40fa-b47d-b4949d591125","userId":"a42c8180-56e0-42a5-8513-f04d84659c85","username":"admin","action":"CREATE_FILE","target":"test-notes.md","details":"test-notes.md (80 bytes)","ipAddress":"::1","createdAt":"2026-08-09T08:48:58.637Z"}
+{"id":"ad0335a4-6c7e-486b-9814-1a42f8e11d31","userId":"a42c8180-56e0-42a5-8513-f04d84659c85","username":"admin","action":"INDEX_ENABLED","target":"test-notes.md","details":"test-notes.md","ipAddress":"::1","createdAt":"2026-08-09T08:50:36.600Z"}
