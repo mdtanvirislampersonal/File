@@ -8,12 +8,12 @@
       "extension": "md",
       "size": 80,
       "isDirectory": false,
-      "isIndexed": false,
+      "isIndexed": true,
       "googleIndexStatus": "UNKNOWN",
       "googleLastChecked": null,
       "githubSha": "4fdd22af01cad82583aba981182ca76bbfae8c58",
       "createdAt": "2026-08-09T08:48:57.243Z",
-      "updatedAt": "2026-08-09T08:48:57.243Z"
+      "updatedAt": "2026-08-09T08:50:35.162Z"
     }
   }
 }
