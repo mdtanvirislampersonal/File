@@ -38,12 +38,12 @@
       "extension": "html",
       "size": 8,
       "isDirectory": false,
-      "isIndexed": false,
+      "isIndexed": true,
       "googleIndexStatus": "DISABLED",
       "googleLastChecked": "2026-08-11T04:24:27.193Z",
       "githubSha": "8c2f1d6b924c01e3d6fc74569938149b5141ac79",
       "createdAt": "2026-08-11T04:21:30.548Z",
-      "updatedAt": "2026-08-11T04:24:27.193Z"
+      "updatedAt": "2026-08-11T04:25:21.208Z"
     }
   }
 }
