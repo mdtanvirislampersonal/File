@@ -23,12 +23,12 @@
       "extension": "txt",
       "size": 45,
       "isDirectory": false,
-      "isIndexed": false,
+      "isIndexed": true,
       "googleIndexStatus": "UNKNOWN",
       "googleLastChecked": null,
       "githubSha": "9e4116cc602cbe0fa8b9521fcfa566626d4fd31f",
       "createdAt": "2026-08-11T02:48:57.742Z",
-      "updatedAt": "2026-08-11T02:48:57.742Z"
+      "updatedAt": "2026-08-11T02:48:58.630Z"
     }
   }
 }
