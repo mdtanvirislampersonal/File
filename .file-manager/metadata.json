@@ -24,11 +24,11 @@
       "size": 45,
       "isDirectory": false,
       "isIndexed": true,
-      "googleIndexStatus": "UNKNOWN",
-      "googleLastChecked": null,
+      "googleIndexStatus": "DISABLED",
+      "googleLastChecked": "2026-08-11T04:27:01.568Z",
       "githubSha": "9e4116cc602cbe0fa8b9521fcfa566626d4fd31f",
       "createdAt": "2026-08-11T02:48:57.742Z",
-      "updatedAt": "2026-08-11T02:48:58.630Z"
+      "updatedAt": "2026-08-11T04:27:01.568Z"
     },
     "index.html": {
       "id": "e46bf87b-4598-4aa7-a9cd-bcdf687a3962",
