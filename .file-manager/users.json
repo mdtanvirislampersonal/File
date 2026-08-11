@@ -3,7 +3,7 @@
     {
       "id": "a42c8180-56e0-42a5-8513-f04d84659c85",
       "username": "admin",
-      "passwordHash": "$2b$10$OoW7kOgE8HcA2QBpc9XQpeiy3NhnesU/a8SM8pHCvrRJDz8CNIbVC",
+      "passwordHash": "$2y$10$z2wTVFAFhqbgCgm9tZffBex7PQXhILoBYP4A0oplB.gb1AG2eKc7a",
       "role": "ADMIN",
       "createdAt": "2026-08-09T08:47:19.228Z",
       "updatedAt": "2026-08-09T08:47:19.228Z"
